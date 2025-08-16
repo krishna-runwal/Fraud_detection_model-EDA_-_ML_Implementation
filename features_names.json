@@ -1,0 +1,18 @@
+[
+  "step",
+  "amount",
+  "oldbalanceOrg",
+  "newbalanceOrig",
+  "oldbalanceDest",
+  "newbalanceDest",
+  "isFlaggedFraud",
+  "tx_per_hour",
+  "amount_ratio_org",
+  "amount_ratio_dest",
+  "neg_balance_org",
+  "neg_balance_dest",
+  "type_CASH_OUT",
+  "type_DEBIT",
+  "type_PAYMENT",
+  "type_TRANSFER"
+]
